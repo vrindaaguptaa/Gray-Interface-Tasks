@@ -1,0 +1,4 @@
+This is the first file .
+Python is a powerful language with easy syntax
+Coding improves mental health .
+Reminder to drink water.
