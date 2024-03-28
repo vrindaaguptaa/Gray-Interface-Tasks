@@ -19,6 +19,7 @@ f.close()
 # 3. How to check file size in Python?
 import os
 size = os.path.getsize('file1.txt')
+print("File Size = " + str(size) + " bytes")
 
 # 4. Find the most repeated word in a text file
 f = open('file1.txt', 'r')
@@ -39,7 +40,7 @@ for i in range(0, len(a)):
     if c>h:  
         h = c 
         w = a[i]        
-print(w)   
+print("Most repeated word = " + w)   
 f.close()
 
 # 5. How to read specific lines from a File in Python?
