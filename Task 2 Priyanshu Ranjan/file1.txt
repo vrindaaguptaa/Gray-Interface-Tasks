@@ -1,0 +1,5 @@
+This is the file from which data will be read.
+This is a text file
+This is line number 3 (index =2 ) of the file
+This file is named as file1.txt 
+This file has 4 lines of text
