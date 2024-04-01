@@ -1,4 +1,0 @@
-My name is Vrinda Gupta.
-There are two kinds of files named as text files and delimited files.
-text files stores the text in the same form as typed.
-delimited files store specific character is stored to separate the values.
