@@ -1,0 +1,7 @@
+hi this is sonu
+this is the first file from which text will be read and then written in text_file_2 
+line 3 
+line 4
+line 5
+line 6
+line 7
